@@ -1,6 +1,6 @@
 ## Neighbourhood-returns
 
-[![Netlify Status](https://api.netlify.com/api/v1/badges/d989ba5f-681a-446f-b47f-f196a4a0bb35/deploy-status)](https://app.netlify.com/sites/neighreturns/deploys?filter=main
+[![Netlify Status](https://api.netlify.com/api/v1/badges/d989ba5f-681a-446f-b47f-f196a4a0bb35/deploy-status)](https://app.netlify.com/sites/neighreturns/deploys?filter=main)
 
 >```Neighbourhood-returns``` is a financial Nerve connecting Investors with Talent
 
