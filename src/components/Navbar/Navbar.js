@@ -24,7 +24,7 @@ const Navbar = ({ hamActive, setHamActive }) => {
           <div className={styles.navLinksWrapper}>
             <div className={styles.verticalLine}> </div>
             <a href="/" className={`${styles.nav} center`}>
-              Discover us
+                Discover us
             </a>
             <a href="/" className={`${styles.nav} center`}>
               Investors
