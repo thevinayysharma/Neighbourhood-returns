@@ -1,23 +1,23 @@
 export const features = [
   {
-    feature: "Choose what you want",
+    feature: "Pick promising areas to invest",
     description:
-      "Select items from your favorite grocery stores at Instacart.com or in the app.",
+      "Select budding talents from your favorite domains be it studies, sports, arts or anything.",
     image:
-      "https://d2guulkeunn7d8.cloudfront.net/assets/homepage/how_it_works-163dcc1c8f91c63d7b0bdb648b5370a89267d54c8cb90bd858495395b8a9e5f3.jpg",
+      "https://i.imgur.com/RCiPKkG.png",
   },
   {
-    feature: "See real-time updates",
+    feature: "Analyze talent data for investment",
     description:
-      "Personal shoppers pick items with care. Chat as they shop and manage your order.",
+      "Discover relevant data to invest wisely. Diversify on talent investment with insured money",
     image:
-      "https://d2guulkeunn7d8.cloudfront.net/assets/homepage/real_time_updates-8330ec94f4d8006c6732bb2f65141e3596dcd3be02b0bf0376dcf5e2895fe37e.jpg",
+      "https://i.imgur.com/H935H6N.png",
   },
   {
-    feature: "Get your items same-day",
+    feature: "Get high returns via empowering dreams",
     description:
-      "Pick a convenient time for you. Enjoy Instacart’s 100% quality guarantee on every order.",
+      "Enjoy up to 2x ROI by enabling local talent to climb the ladder of success",
     image:
-      "https://d2guulkeunn7d8.cloudfront.net/assets/homepage/same_day_delivery-a00a9a59cbdfc41e7449cbdd04c12d27303284bef1a8fe957ec2a0112a70d7e7.jpg",
+      "https://i.imgur.com/CWqDuiE.png",
   },
 ];
