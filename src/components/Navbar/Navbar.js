@@ -24,10 +24,10 @@ const Navbar = ({ hamActive, setHamActive }) => {
           <div className={styles.navLinksWrapper}>
             <div className={styles.verticalLine}> </div>
             <a href="/" className={`${styles.nav} center`}>
-              Departments
+              Discover Us
             </a>
             <a href="/" className={`${styles.nav} center`}>
-              More ways to shop
+              For Investors
             </a>
             <a href="/" className={`${styles.nav} center`}>
               Help
