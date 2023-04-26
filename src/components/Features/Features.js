@@ -6,7 +6,7 @@ const Features = () => {
   return (
     <div className={`${styles.featuresWrapper} center`}>
       <div className={styles.featuresHeading}>
-        <p>Grocery delivery you can count on</p>
+        <p> For Investors: Bring Bold Dreams To Life</p>
       </div>
       <div className={`${styles.featuresListWrapper} center`}>
         <div className={`${styles.featuresList} center`}>
@@ -29,7 +29,7 @@ const Features = () => {
           })}
         </div>
       </div>
-      <button className={styles.shopBtn}>Start shopping</button>
+      <button className={styles.shopBtn}>Start Investing</button>
     </div>
   );
 };

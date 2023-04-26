@@ -3,7 +3,7 @@ import styles from "./Navbar.module.css";
 
 const Navbar = ({ hamActive, setHamActive }) => {
   const logo =
-    "https://d2guulkeunn7d8.cloudfront.net/assets/beetstrap/brand/instacart-logo-color-4db9d81ca0b7638befdc4bd331f64a2633df790c0b55ef627c99b1ba77af72b7.svg";
+    "https://i.imgur.com/r2a5DS3.png";
   const handleClick = () => {
     setHamActive(!hamActive);
   };
@@ -24,13 +24,13 @@ const Navbar = ({ hamActive, setHamActive }) => {
           <div className={styles.navLinksWrapper}>
             <div className={styles.verticalLine}> </div>
             <a href="/" className={`${styles.nav} center`}>
-              Discover Us
+                Discover us
             </a>
             <a href="/" className={`${styles.nav} center`}>
-              For Investors
+              Investors
             </a>
             <a href="/" className={`${styles.nav} center`}>
-              Help
+              Talents
             </a>
           </div>
           <div>

@@ -7,17 +7,17 @@ const NavbarResponsive = ({ hamActive }) => {
         <ul className={`${styles.navResLinks}`}>
           <li>
             <a href="/" className={`${styles.navR} center`}>
-              Departments
+              Discover us
             </a>
           </li>
           <li>
             <a href="/" className={`${styles.navR} center`}>
-              More ways to shop
+              Investors
             </a>
           </li>
           <li>
             <a href="/" className={`${styles.navR} center`}>
-              Help
+              For Talent
             </a>
           </li>
         </ul>

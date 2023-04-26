@@ -45,8 +45,8 @@ const Footer = () => {
         </div>
         <div className={`${styles.footerText} center`}>
           <p>
-            Apple and the Apple logo are trademarks of Apple Inc., registered in
-            the U.S. and other countries. App Store is a service mark of Apple
+            Neighbourhood Returns logo are trademarks of NR Inc., registered in
+            the U.S. and other countries. App Store is a service mark of NR
             Inc. Android, Google Play and the Google Play logo are trademarks of
             Google LLC.
           </p>
